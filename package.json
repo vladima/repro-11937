@@ -1,0 +1,16 @@
+{
+  "name": "11937",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "typescript": "^2.1.0-dev.20161029"
+  }
+}
